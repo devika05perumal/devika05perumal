@@ -86,14 +86,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devika05perumal&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devika05perumal&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ### 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/devika-p-015480348/
