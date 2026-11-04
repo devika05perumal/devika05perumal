@@ -115,12 +115,6 @@ An event management application for wedding, corporate, party, and social event 
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devika05perumal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devika05perumal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 🔥 GitHub Contribution Streak
 
