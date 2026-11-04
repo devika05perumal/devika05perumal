@@ -1,100 +1,169 @@
-# Hi, I'm Devika P 👋
+# 👋 Hi, I'm Devika P
 
-### MCA Graduate | Python Developer | AI & ML Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=8A5CF6&center=true&vCenter=true&width=700&lines=AI+%26+Python+Developer;MCA+Graduate;Machine+Learning+Enthusiast;Exploring+LLMs+%26+RAG;Building+Smart+AI+Solutions" alt="Typing SVG" />
+</p>
 
-💻 Passionate about building practical software applications and AI-powered solutions.
+<h3 align="center">
+  🤖 AI Developer | Python Developer | MCA Graduate
+</h3>
 
-🎓 MCA Graduate with an interest in Python, Artificial Intelligence, Machine Learning, Web Development and Full Stack Development.
-
-🌱 Continuously learning new technologies and improving my problem-solving skills.
-
----
-
-### 👩‍💻 About Me
-
-- 🎓 MCA Graduate (2026)
-- 💡 Interested in Python Development, AI/ML and Full Stack Development
-- 🤖 Exploring Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
-- 🎨 Interested in UI/UX Design and creating user-friendly applications
-- 🔍 Experience in Manual Software Testing
-- 🚀 Building real-world projects and learning new technologies
+<p align="center">
+  <a href="https://github.com/devika05perumal">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/devika-p-015480348/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Technical Skills
+## 👩‍💻 About Me
 
-**Programming Languages**
-- Python
-- JavaScript
+I'm an MCA graduate passionate about Artificial Intelligence, Python Development, Machine Learning, and building intelligent software applications.
 
-**Web Development**
-- HTML5
-- CSS3
-- FastAPI
-- Flask
+- 🎓 Master of Computer Applications (MCA) Graduate – 2026
+- 🐍 Interested in Python Development and Backend Engineering
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🧠 Learning Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
+- 🌐 Interested in Full Stack Web Development
+- 🎨 Passionate about UI/UX Design
+- 🔍 Interested in Software Testing and Quality Assurance
+- 🚀 Building practical projects and continuously improving my technical skills.
 
-**AI & Machine Learning**
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js" />
+</p>
+
+### 🌐 Web Development & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,fastapi,flask" />
+</p>
+
+### 🤖 AI & Machine Learning
+
 - Artificial Intelligence (AI)
 - Machine Learning (ML)
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- AI-powered Applications
 
-**Database**
-- MySQL
-- SQL
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
 
-**Tools & Platforms**
-- Git & GitHub
-- Visual Studio Code
+### 🔧 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
 - Google Colab
-
-**Design & Data Visualization**
-- Figma
 - Power BI
 - Canva
 - Gamma
 
-**Other Skills**
+### 🧪 Other Skills
+
 - Manual Software Testing
-- Test Case Preparation
+- Test Case Design
 - Bug Reporting
+- API Testing
 - Problem Solving
+- Team Collaboration
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-**1. Smart RAG Chatbot**
-- AI-powered Question & Answer chatbot using Retrieval-Augmented Generation.
-- Designed to retrieve relevant information from uploaded documents.
-- Python, Streamlit, LLM and Vector Search.
+### 🤖 1. Smart RAG Chatbot
 
-**2. Hospital Management System**
-- Developed a backend API for managing patients, doctors and appointments.
-- Implemented authentication and database integration.
-- Python, FastAPI and MySQL.
+An AI-powered question-and-answer chatbot using Retrieval-Augmented Generation (RAG).
 
-**3. Todo List Application**
-- Developed a task management application with CRUD operations.
-- Implemented user authentication and task management.
-- Python, FastAPI and database integration.
+**Technologies:** Python, Streamlit, LLMs, Vector Search
 
-**4. Smart Event Planning and Booking System**
-- Developed an event management application for weddings, parties and corporate events.
-- Includes event packages, bookings, payments and reviews.
-- Python, Flask and MySQL.
+[View Repository](https://github.com/devika05perumal/Smart-RAG-Chatbot)
+
+### 🏥 2. Hospital Management System
+
+A backend API application for managing patients, doctors, appointments, and user authentication.
+
+**Technologies:** Python, FastAPI, MySQL, JWT
+
+[View Repository](https://github.com/devika05perumal/Hospital-Management-System)
+
+### ✅ 3. Todo List Application
+
+A task management application with user authentication and CRUD operations.
+
+**Technologies:** Python, FastAPI, SQLite
+
+[View Repository](https://github.com/devika05perumal/todo-list-fastapi)
+
+### 🎉 4. Smart Event Planning & Booking System
+
+An event management application for wedding, corporate, party, and social event planning.
+
+**Technologies:** Python, Flask, MySQL
 
 ---
 
-### 🌐 Connect With Me
+## 📊 GitHub Statistics
 
-- 💼 LinkedIn: https://www.linkedin.com/in/devika-p-015480348/
-- 💻 GitHub: https://github.com/devika05perumal
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devika05perumal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devika05perumal&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=devika05perumal&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### ✨ Developer Mindset
+## 🌱 Currently Learning
 
-"Learning every day, building solutions, and growing as a developer."
+- Advanced Python Programming
+- AI Engineering
+- LLM Application Development
+- RAG-based AI Systems
+- FastAPI Backend Development
+- Full Stack Development
 
+---
 
+## 🏆 Achievements
+
+- 🥇 First Prize – Web Designing, RITTS-2K'25
+- 🥈 Second Prize – Website Development, BYTE CODE – XPLORE 2025
+- 🏅 Best Outgoing Student Award – BCA, 2024
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/devika05perumal">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/devika-p-015480348/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  💜 "Learning, Building, Innovating — One Line of Code at a Time."
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
